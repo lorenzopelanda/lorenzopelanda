@@ -26,17 +26,6 @@ Here are some of the technologies I enjoy working with:
 
 ---
 
-### 📂 Featured Projects
-
-These are my most significant repositories I have developed:
-
-* [**GreenTo**](https://github.com/lorenzopelanda/[repo_name_1]](https://github.com/lorenzopelanda/geo-analysis)): Made a Python library at the University of Turin, concerning data analytics for natural areas.
-* [**Outdoor Buddy**](https://github.com/lorenzopelanda/[repo_name_2]](https://github.com/lorenzopelanda/outdoor-buddy)): Telegram bot for weather forcasting and cycling routes planning.
-* [**Goal Insight**](https://github.com/lorenzopelanda/[repo_name_3]](https://github.com/lorenzopelanda/goal-insight)): Website for football fans, to be updated.
-
-
----
-
 ### 💬 Connect with Me
 
 You can reach me on:
